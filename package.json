@@ -6,6 +6,14 @@
   "license": "MIT",
   "repository": "auquan/react-graph3d-vis",
   "main": "dist/index.js",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-vis-component",
+    "graphs",
+    "react-graph",
+    "graph3d"
+  ],
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
   "engines": {
