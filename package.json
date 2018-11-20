@@ -1,10 +1,10 @@
 {
   "name": "react-graph3d-vis",
   "version": "1.0.0",
-  "description": "A react library to create innteractive 3d graphs",
+  "description": "A react library to create interactive 3d graphs using vis.js",
   "author": "sagarchoudhary96",
   "license": "MIT",
-  "repository": "sagarchoudhary96/react-graph3d-vis",
+  "repository": "auquan/react-graph3d-vis",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -57,5 +57,10 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "uuid": "^3.3.2",
+    "vis": "^4.21.0"
+  }
 }

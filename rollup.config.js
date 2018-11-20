@@ -35,5 +35,6 @@ export default {
     }),
     resolve(),
     commonjs()
-  ]
+  ],
+  external: ['crypto']
 }
