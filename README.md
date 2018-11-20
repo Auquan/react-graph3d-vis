@@ -1,6 +1,6 @@
 # react-graph3d-vis
 
-> A react library to create interactive 3d graphs using vis.js.
+> A React Component to create interactive 3d graphs using vis.js. check out the [Demo Version](https://auquan.github.io/react-graph3d-vis/).
 
 > Read more about it here : [vis js graph3d](http://visjs.org/docs/graph3d/index.html)
 
