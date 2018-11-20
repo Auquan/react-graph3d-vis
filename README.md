@@ -65,4 +65,4 @@ All the features from vis.js graph 3d are currently not supported **(Pull Reques
 
 ## License
 
-MIT © [sagarchoudhary96](https://github.com/sagarchoudhary96)
+MIT © [Auquan](https://github.com/auquan)
