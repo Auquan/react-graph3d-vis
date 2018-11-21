@@ -1,6 +1,6 @@
 {
   "name": "react-graph3d-vis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react library to create interactive 3d graphs using vis.js",
   "author": "sagarchoudhary96",
   "license": "MIT",
