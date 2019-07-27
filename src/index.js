@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import vis from 'vis'
-import uuid from 'uuid'
+import vis from 'vis-graph3d'
+import { uuid4 } from 'vis-uuid'
 import isEqual from 'lodash'
 
 export default class Graph3D extends Component {
@@ -11,7 +11,7 @@ export default class Graph3D extends Component {
 
     const {identifier} = props
     this.state = {
-      identifier: identifier !== undefined ? identifier : uuid.v4()
+      identifier: identifier !== undefined ? identifier : uuid4()
     }
 
     this.updateGraph = this.updateGraph.bind(this)

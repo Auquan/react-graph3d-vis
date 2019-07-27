@@ -68,7 +68,7 @@
   ],
   "dependencies": {
     "lodash": "^4.17.11",
-    "uuid": "^3.3.2",
-    "vis": "^4.21.0"
+    "vis-graph3d": "^5.0.0",
+    "vis-uuid": "1.1.3"
   }
 }
